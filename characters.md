@@ -4,6 +4,8 @@
 
 ## **Kvothe's Edema Ruh Troupe**
 
+---
+
 * Eight wagons
 
 * two dozen performers
@@ -159,6 +161,8 @@
 
 ## Newarre Townfolk
 
+---
+
 ### Bast
 
 * Bastas, Son of Remmen, Prince of Twilight, Telwyth Mael
@@ -297,6 +301,10 @@
 * \(and unknowingly a hidden purse\)
 
 
+## Misc
+
+---
+
 ### Skarpi
 
 * Chronicler's colleague
@@ -361,45 +369,50 @@ Kote to towfolk:
 
 
 
-## In Tarbean
+## Tarbean
+
+---
 
 ### Seth and Jake
 
-picked up Kvothe on his way to town after surviving in the woods
+* picked up Kvothe on his way to town after surviving in the woods
 
 ### Pike and his gang
 
-beat up Kvothe when he first arrives in tarbeanone boy is oddly religious
+* beat up Kvothe when he first arrives in tarbeanone boy is oddly religious
 
 ### Diken
 
-a fence in Tarbean
+* a fence in Tarbean
 
 ### Trapis
 
-fed and housed sick orphans
+* fed and housed sick orphans
 
 ### **Tanee**
 
-Moaning boy
+* Moaning boy
 
 ### Jaspin
 
-had gone fever-mad
+* had gone fever-mad
 
 ### Loni
 
-a boy who knocked his head against the wall
+* a boy who knocked his head against the wall
 
 ## Gerrek
 
-The man in the Encanis mask who finds Kvothe in the snow
+* The man in the Encanis mask who finds Kvothe in the snow
 
-He and his friend seemed to be on the run from an incident that wasn't their fault
+* He and his friend seemed to be on the run from an incident that wasn't their fault
+
 
 ## Historical
 
+---
+
 ### Duke of Gibea
 
-He and his men abducted and tortured people for 20 years until the church put an end to it
+* He and his men abducted and tortured people for 20 years until the church put an end to it
 
