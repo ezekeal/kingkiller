@@ -1,5 +1,9 @@
 # Currency
 
+## Units
+
+---
+
 ### Halfpenny
 
 broken
@@ -9,6 +13,8 @@ broken
 ### Iron Drab
 
 looks like an ingot
+
+originally one fifth of an iron bar
 
 good iron
 
@@ -38,20 +44,12 @@ thin
 
 
 
-
-
 ## Conversion
 
 |  | is equal to |
-| --- | --- |
-| 5 drabs | 1 iron bar \(not currency, origin of a drab\) |
 | 10  drabs | 1 copper jot |
-| 50 iron pennies | 10 copper pennies |
+| 50 iron pennies | 1 copper penny |
 | 10 copper pennies | 1 silver penny |
-
-
-
-
 
 ## Prices
 
@@ -63,6 +61,4 @@ thin
 | 2 iron pennies | Sleep on the hearth at the Red Eye |
 | 1 copper | Private Rooma t the Waystone |
 | 40 copper | Cost to the town for an Edema Ruh Performance |
-
-
 
