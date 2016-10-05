@@ -15,4 +15,5 @@
 * [History](history.md)
 * [Kvothe](kvothe.md)
 * [Languages](languages.md)
+* [Locations](locations.md)
 
