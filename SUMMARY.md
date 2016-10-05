@@ -6,4 +6,6 @@
 * [Artifacts](artifacts.md)
 * [Books](books.md)
 * [Characters](characters.md)
+* [Court](court.md)
+* [Creatures](creatures.md)
 
