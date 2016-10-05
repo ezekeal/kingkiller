@@ -13,4 +13,5 @@
 * [Games](games.md)
 * [Groups](groups.md)
 * [History](history.md)
+* [Kvothe](kvothe.md)
 
