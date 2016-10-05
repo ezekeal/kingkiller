@@ -1,3 +1,11 @@
-# First Chapter
+# **The Arcanum \/ The University**
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+* A school the size of a small town
+
+* 17 is about as young as students get accepted
+
+
+## **Library**
+
+* It has more than ten times ten thousand books. More books than anyone could read in a lifetime
+
