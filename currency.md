@@ -45,8 +45,8 @@ thin
 
 
 ## Conversion
-
-|  | is equal to |
+|     | is equal to |
+| --- | --- |
 | 10  drabs | 1 copper jot |
 | 50 iron pennies | 1 copper penny |
 | 10 copper pennies | 1 silver penny |
