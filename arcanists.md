@@ -10,7 +10,7 @@
 
 * causes discomfort \/ numbness to anyone who touches it except the owner to whom it just feels warm
 
-  ## According to Abenthy
+## According to Abenthy
 
 * Arcanists are tinkers and pedlers and more than both
 
