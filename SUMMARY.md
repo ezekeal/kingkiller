@@ -10,4 +10,6 @@
 * [Creatures](creatures.md)
 * [Currency](currency.md)
 * [Events \/ Holidays](events--holidays.md)
+* [Games](games.md)
+* [Groups](groups.md)
 
