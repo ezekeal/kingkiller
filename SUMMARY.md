@@ -12,4 +12,5 @@
 * [Events \/ Holidays](events--holidays.md)
 * [Games](games.md)
 * [Groups](groups.md)
+* [History](history.md)
 
