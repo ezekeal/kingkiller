@@ -14,4 +14,5 @@
 * [Groups](groups.md)
 * [History](history.md)
 * [Kvothe](kvothe.md)
+* [Languages](languages.md)
 
