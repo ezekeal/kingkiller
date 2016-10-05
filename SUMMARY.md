@@ -8,4 +8,5 @@
 * [Characters](characters.md)
 * [Court](court.md)
 * [Creatures](creatures.md)
+* [Currency](currency.md)
 
