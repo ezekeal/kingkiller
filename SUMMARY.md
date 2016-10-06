@@ -16,4 +16,5 @@
 * [Kvothe](kvothe.md)
 * [Languages](languages.md)
 * [Locations](locations.md)
+* [My Notes](my-notes.md)
 
