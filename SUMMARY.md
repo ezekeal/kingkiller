@@ -24,4 +24,6 @@
 * [Sayings](sayings.md)
 * [Songs and Poems](songs-and-poems.md)
 * [Systems](systems.md)
+* [Terms](terms.md)
+* [Materials](materials.md)
 
