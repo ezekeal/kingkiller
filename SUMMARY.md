@@ -28,4 +28,5 @@
 * [Materials](materials.md)
 * [Mixtures](mixtures.md)
 * [Plants](plants.md)
+* [Themes](maps.md)
 
