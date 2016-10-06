@@ -27,4 +27,5 @@
 * [Terms](terms.md)
 * [Materials](materials.md)
 * [Mixtures](mixtures.md)
+* [Plants](plants.md)
 
