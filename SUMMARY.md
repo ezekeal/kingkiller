@@ -30,10 +30,11 @@
 * [Books](books.md)
 * [Sayings](sayings.md)
 * [Stories](stories.md)
-    * Tales
+    * [Tales](tales.md)
     * [Songs and Poems](songs-and-poems.md)
     * [Plays](plays.md)
     * [Myths](myths.md)
+    * [Tehlu](tehlu.md)
 * [Systems](systems.md)
     * [Sympathy](sympathy.md)
     * [Misc Systems](misc-systems.md)
