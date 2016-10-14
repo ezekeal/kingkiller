@@ -200,4 +200,13 @@ Bar Patron
 ### Fallows
 
 * Where Kvothe heard the Lackless rhyme from children
+* where Skarpi's Fallows Red comes from?
+
+### Myr Tariniel
+
+* Miles away from Tarbean
+* In the tall mountains
+* as large as Tarbean but more cultivated \( fountains, trees, statues\)
+* buildings carved into the mountain in white stone that held the sun's light after evening fell
+
 
