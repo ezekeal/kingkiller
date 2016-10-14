@@ -6,8 +6,6 @@
 
 * a danger to Chandrian
 
-## Lyra
-
 ## Faeries
 
 * blue flame may be a sign

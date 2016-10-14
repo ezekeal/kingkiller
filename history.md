@@ -32,7 +32,7 @@ Tehlins called knacks demon sign and killed burned people with them
 
 * in the Ergen Empire
 * The largest empire and most terrible war in history
-* lasted longer than most people could remember
+* lasted longer than most people could remember, centuries
 * exists only in story, books mentioning them as a doubtful rumor have decayed
 * Hundreds of cities were destroyed, famine and plague everywhere
 * children went unnamed
