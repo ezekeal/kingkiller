@@ -1,6 +1,8 @@
 # Summary
 
 * [Timeline](README.md)
+    * [Present](present.md)
+    * [The Beginning](the-beginning.md)
 * [The Arcanum \/ The University](chapter1.md)
 * [Arcanists](arcanists.md)
 * [Artifacts](artifacts.md)
