@@ -14,5 +14,5 @@
 
 ### [Historical](/historical.md)
 
-### [Misc](/misc.md)
+### [Misc Characters](/misc.md)
 
