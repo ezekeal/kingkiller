@@ -155,3 +155,23 @@
 
 * fire breather
 
+## Geusts
+
+### Laclith
+
+1. taught Kvote woodcraft
+
+### Hetera
+
+* cortesean \(prostitute\) taught Kvothe:
+
+  * inner workings of Modeg court
+
+  * not to do anything in private you don't want public
+
+  * not to talk in your sleep
+
+
+
+### 
+
