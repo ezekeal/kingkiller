@@ -48,15 +48,6 @@
 * \(and unknowingly a hidden purse\)
 
 
-### Skarpi
-
-* Chronicler's colleague
-
-* They intend to meet in Treya
-
-* Kvothe met him at the Half-Mast Bar - Dockside - Tarbean
-
-
 ### Deolan
 
 Kote to towfolk:

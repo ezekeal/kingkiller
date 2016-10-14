@@ -30,10 +30,21 @@
 
 * a boy who knocked his head against the wall
 
-## Gerrek
+### Gerrek
 
 * The man in the Encanis mask who finds Kvothe in the snow
 
 * He and his friend seemed to be on the run from an incident that wasn't their fault
 
+
+### Skarpi
+
+* Chronicler's colleague
+
+* They intend to meet in Treya
+
+* Kvothe met him at the Half-Mast Bar - Dockside - Tarbean
+
+* Told stories every 6th bell
+* If he didn't know your story he would give you a talent
 
