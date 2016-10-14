@@ -22,7 +22,7 @@ Kvothe learned to pickpocket, steal, run from sweet-eaters, and make shoes from 
 
 ### Twoish years later
 
-Kvothe saw pike again and followed him back to his "secret place" in Dockside. He stole his beer and cheese and a shirt. He also found charcoal drawings of a woman's face. Kvothe set his place on fire. Pike stabbed him in the thigh, broke his ribs, gave him a black eye and threatened to kill him as he ran away.
+Kvothe saw pike again and followed him back to his "secret place" in Dockside. He stole his beer and cheese and a shirt. He also found charcoal drawings of a woman's face. Kvothe set his place on fire. Pike stabbed him in the thigh, broke his ribs, gave him a black eye and threatened to kill him as he ran away. Kvothe set a trap for him and set him on fire.
 
 ### Another years later
 

@@ -26,5 +26,5 @@
 
 ### Dreg
 
-* a cheap foul liquor
+* a cheap foul liquor strong enough to blister the inside of your mouth
 
