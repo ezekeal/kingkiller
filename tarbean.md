@@ -54,7 +54,9 @@
 * If he didn't know your story he would give you a talent
 
 * An old man with eyes like diamonds and the body of a driftwood scarecrow
+
 * thin and weathered with thick white hair on his arms, face, and head
 * deep brown tan
 * like Fallows Red
+* blue eyes
 
