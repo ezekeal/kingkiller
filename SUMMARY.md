@@ -36,6 +36,7 @@
     * [Myths](myths.md)
     * [Tehlu](tehlu.md)
     * [Taborlin](taborlin.md)
+    * [Chandrian](chandrian.md)
 * [Systems](systems.md)
     * [Sympathy](sympathy.md)
     * [Misc Systems](misc-systems.md)
