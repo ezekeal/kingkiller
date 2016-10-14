@@ -28,3 +28,8 @@ Red heads were burned as demons
 
 Tehlins called knacks demon sign and killed burned people with them
 
+### The Creation war
+
+* in the Ergen Empire
+* The largest empire and most terrible war in history
+
