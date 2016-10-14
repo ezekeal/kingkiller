@@ -63,3 +63,7 @@ Teren and Shandi - singer Sharon Tandy?
 * Ben says "Remember your father's song. Be wary of folly" likely in reference to the Lanre song?
 
 
+## Subtext
+
+* There's an implication in Tarbean that both the caught eight-year-old and Kvothe were sexually abused by older street urchins, it seems to have affected him to this day. "Bones mend. Regret stays with you forever"
+

@@ -80,6 +80,7 @@ Where Kvothe survived in the woods after his parents were killed
 ### Hallowfell
 
 * Where Ben left the troupe
+* hundreds of miles from Tarbean
 
 ### **N**ewarre
 
@@ -93,8 +94,6 @@ Townfolk say
 * Stories are told here but happen elsewhere
 
 * This is not a place for demons
-
-
 
 
 Oldstone Bridge
@@ -112,7 +111,7 @@ The Waystone Inn
 
 Kote:
 
-*  reports of Scrael by a trader
+* reports of Scrael by a trader
 
 ### Resavek
 
