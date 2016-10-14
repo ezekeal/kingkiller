@@ -9,6 +9,10 @@
 ### Pike and his gang
 
 * beat up Kvothe when he first arrives in tarbeanone boy is oddly religious
+* has a few interesting things in his hiding place
+  * sailcloth iwth charcoal drawings of a woman's face
+  * a small wooden box with dried violets tied with a white ribbon, a toy horse, and a lock of curling blond hair
+
 
 ### Diken
 
@@ -46,5 +50,6 @@
 * Kvothe met him at the Half-Mast Bar - Dockside - Tarbean
 
 * Told stories every 6th bell
+
 * If he didn't know your story he would give you a talent
 

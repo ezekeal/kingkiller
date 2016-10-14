@@ -20,7 +20,11 @@ Kvothe goes begging in Hillside Tarbean. He manages to get a silver penny from a
 
 Kvothe learned to pickpocket, steal, run from sweet-eaters, and make shoes from rags
 
-### Three years later
+### Twoish years later
+
+Kvothe saw pike again and followed him back to his "secret place" in Dockside. He stole his beer and cheese and a shirt. He also found charcoal drawings of a woman's face.
+
+### Another years later
 
 Kvothe age 15 now
 
