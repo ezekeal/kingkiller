@@ -36,6 +36,7 @@
     * [Myths](myths.md)
 * [Systems](systems.md)
     * [Sympathy](sympathy.md)
+    * [Misc Systems](misc-systems.md)
 * [Terms](terms.md)
 * [Materials](materials.md)
 * [Mixtures](mixtures.md)
