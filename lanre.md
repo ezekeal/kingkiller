@@ -17,4 +17,16 @@
 
 * He didn't sell his soul.
 
+**Skarpi**:
+* a man who lost his eye and gained better sight
+
+### Lanre and the Creation War
+
+_told by Skarpi_
+
+
+
+
+
 See Lanre Songs in Songs
+
