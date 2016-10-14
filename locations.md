@@ -57,6 +57,8 @@ Where Kvothe survived in the woods after his parents were killed
 
   * Dockside
 
+    * The Half-Mast bar
+
   * the Tarway
 
   * Seamling Lane

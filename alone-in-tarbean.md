@@ -22,5 +22,7 @@ Kvothe learned to pickpocket, steal, run from sweet-eaters, and make shoes from 
 
 ### Three years later
 
-Kvothe age 15 and no longer in Tarbean. \(stub\)
+Kvothe age 15 now
+
+He ovearhears a girl in Trapis' basement talking about a storyteller
 
