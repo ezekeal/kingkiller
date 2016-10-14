@@ -106,3 +106,8 @@
 * his own lute had eight strings
 
 
+## Dry Men
+
+* live under dunes in the dry lands over the Stormwal
+* drink blood instead of water
+
