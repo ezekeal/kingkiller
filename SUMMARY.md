@@ -5,6 +5,7 @@
     * [The Beginning](the-beginning.md)
     * [The Chandrian Incident](the-chandrian-incident.md)
     * [Alone in Tarbean](alone-in-tarbean.md)
+    * [HIstory](history.md)
 * [The Arcanum \/ The University](chapter1.md)
 * [Arcanists](arcanists.md)
 * [Artifacts](artifacts.md)
