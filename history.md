@@ -34,4 +34,9 @@ Tehlins called knacks demon sign and killed burned people with them
 * The largest empire and most terrible war in history
 * lasted longer than most people could remember
 * exists only in story, books mentioning them as a doubtful rumor have decayed
+* Hundreds of cities were destroyed, famine and plague everywhere
+* children went unnamed
+* Eight Cities remained
+  * Belen, Antus, Vaeret, Tinusa, Emlen, and the twin cities Murilla and Murella, and lastly Myr Tariniel
+
 
