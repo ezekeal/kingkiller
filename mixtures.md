@@ -5,6 +5,7 @@
 * addictive
 
 * addicts are called sweet-eaters
+
 * slowly bleaches your teeth
 
 * addicts will kill you for a pair of pennies
@@ -23,5 +24,7 @@
 * hurts if you take it at the wrong time
 
 
-### 
+### Dreg
+
+* a cheap foul liquor
 
