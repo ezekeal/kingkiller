@@ -42,10 +42,9 @@ thin
 
 ### Gold Nobles
 
-
-
 ## Conversion
-|     | is equal to |
+
+|  | is equal to |
 | --- | --- |
 | 10  drabs | 1 copper jot |
 | 50 iron pennies | 1 copper penny |
@@ -61,4 +60,5 @@ thin
 | 2 iron pennies | Sleep on the hearth at the Red Eye |
 | 1 copper | Private Rooma t the Waystone |
 | 40 copper | Cost to the town for an Edema Ruh Performance |
+| 1 Talent | shoes, a knife, money for trapis and still 20 iron pennies left |
 
