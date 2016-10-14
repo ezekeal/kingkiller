@@ -18,6 +18,8 @@ He slowly found out how to scavenge for food and had a secret place atop an old 
 
 Kvothe goes begging in Hillside Tarbean. He manages to get a silver penny from a woman there. A shopkeep tells a guard and the guard beats the crap out of him causing him to loose his silver penny. He makes it back to Waterside near death. A man in the Ecanis mask and a woman in a green mask find him. They seem to be on the run from an incident that they didn't cause but might get blamed for. He gives Kvothe a silver talent and his gloves. He limps to an Inn where he buys a blanket and some food and wine. After a day or so he made his way back to Trapis with the remaining coin. Trapis nursed him back to health using his money to buy necessary medicine.
 
+Kvothe learned to pickpocket, steal, run from sweet-eaters, and make shoes from rags
+
 ### Three years later
 
 Kvothe age 15 and no longer in Tarbean. \(stub\)

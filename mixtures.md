@@ -2,6 +2,12 @@
 
 ### Denner Resin
 
+* addictive
+
+* slowly bleaches your teeth
+
+* addicts will kill you for a pair of pennies
+
 ### Nighmane
 
 ### Mhenka
