@@ -1,6 +1,10 @@
 ### The Amyr
 
 * a danger to Chandrian
+* Lanre story
+  * founded by Selitos and some Ruach after the burning of Myr Tariniel
+  * named after the city
+
 
 ### The Sithe
 

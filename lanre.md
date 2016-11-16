@@ -63,10 +63,23 @@ See Lanre Songs in Songs
 * took the new name Haliax after destroying the empire
 
 * claims no door can bar his passing
+
 * cursed
   * his face is held in shadow
   * his name a curse on him
 
+
+## Tehlu crew
+
+* Tall Kirel
+  * burned but alive in the battle
+
+* Deah
+  * lost two husbands to the fighting
+  * face and mouth and heart cold and hard as stone
+
+
+## Story
 
 Lyra and Lanre defended cities of the empire and helped them recognize the need for allegience. It gave people hope.Then came the blac of Drossen Tor, the largest battle. More died there than live today. Lanre fought a beast with scales of black iron whose breath was darkness  that smothered men. He died. Lyra called to him to live and eventually he did. Peace began settling on the empire. After hearing rumors of Lyra's death and Lanre's madness, he shows up  in Myr Tariniel. Lanre wishes to talk to Selitos. Selitos offers his aid, but Lanre binds him:
 
@@ -76,5 +89,9 @@ Lanre was able to do this despite a prior lack of naming skill. An army took Myr
 
 ...
 
-Aleph had requested something of Selitos. He also wants him to only punish or reward what he sees and to put away personal issues. He refuses and with some of the Ruach form the Amyr
+Aleph had requested something of Selitos. He also wants him to only punish or reward what he sees and to put away personal issues. He refuses and with some of the Ruach form the Amyr.
+
+Tehlo comes forward with others and offers to serve in any way.
+
+
 
