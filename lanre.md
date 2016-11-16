@@ -34,6 +34,7 @@ See Lanre Songs in Songs
 * could name just by looking at a thing
 * could read people as well
 * used his sight to protect his city
+* Three could match his skill in names: Aleph, Iax, and Lyra
 
 ### Lyra
 
@@ -57,6 +58,18 @@ See Lanre Songs in Songs
   * had gone mad
   * killed himself to find Lyra in the land of the dead
 
+* immortal
 
-Lyra and Lanre defended cities of the empire and helped them recognize the need for allegience. It gave people hope.Then came the blac of Drossen Tor, the largest battle. More died there than live today. Lanre fought a beast with scales of black iron whose breath was darkness  that smothered men. He died. Lyra called to him to live and eventually he did. Peace began settling on the empire. After hearing rumors of Lyra's death and Lanre's madness, he shows up  in Myr Tariniel. 
+* took the new name Haliax after destroying the empire
+* claims no door can bar his passing
+* cursed
+  * his face is held in shadow
+  * his name a curse on him
+
+
+Lyra and Lanre defended cities of the empire and helped them recognize the need for allegience. It gave people hope.Then came the blac of Drossen Tor, the largest battle. More died there than live today. Lanre fought a beast with scales of black iron whose breath was darkness  that smothered men. He died. Lyra called to him to live and eventually he did. Peace began settling on the empire. After hearing rumors of Lyra's death and Lanre's madness, he shows up  in Myr Tariniel. Lanre wishes to talk to Selitos. Selitos offers his aid, but Lanre binds him:
+
+> Silanxi, I bind you. by the name of stone, be as stone. Aeruh, I command the air. Lay leaden on your tongue. Selitos, I name you. May all your powers fail you but your sight."
+
+Lanre was able to do this despite a prior lack of naming skill. An army took Myr Tariniel,  burned it black while Selitos could only watch. He swore to sow salt lest bitter weeds grow and took up the name Haliax. Selitos stabbed his eye with a stone breaking the enchantment. He cursed Lanre with his own blood.
 

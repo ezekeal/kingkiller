@@ -56,7 +56,10 @@
 * An old man with eyes like diamonds and the body of a driftwood scarecrow
 
 * thin and weathered with thick white hair on his arms, face, and head
+
 * deep brown tan
 * like Fallows Red
 * blue eyes
+* I only know one story, but often times small pieces seem to be stories themselves
+* claims the Lanre story really happened
 
