@@ -8,6 +8,14 @@
 
 ### The Singers
 
+* a danger to the Chandrian
+* granted power by Aleph in return for serving justice
+  * swift wings of various fire and shadow, wood and glass, iron and stone
+  * can see into hearts of men
+  * have songs of power
+  * invisible to all but the most powerful
+
+
 ### The Sithe
 
 * a danger to Chandrian
