@@ -6,6 +6,8 @@
   * named after the city
 
 
+### The Singers
+
 ### The Sithe
 
 * a danger to Chandrian

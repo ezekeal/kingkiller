@@ -1,4 +1,4 @@
-# Religion
+# The Church
 
 ## God - Tehlu
 
@@ -12,6 +12,8 @@
 
 * Book of the Path \(their bible?\)
 
+* Tehlin justices wear silver scales
+* They lock up people for heresy
 
 ### Rumors
 

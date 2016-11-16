@@ -82,27 +82,34 @@ See Lanre Songs in Songs
   * face and mouth and heart cold and hard as stone
 
 * Enlas
+
   * wouldn't carry a sword or eat the flesh of animals
   * never used hard words
 
 * Geisa
+
   * Hand a hundred suits in Belen before the battle
   * was the first to be raped in the battle
 
 * Lecelte
+
   * lauphed easily
 
-* I met 
+* I met
+
   * never sand and killed swiftly
 
 * Ordal
+
   * the youngest
   * had never seen a thing die
 
 * Aleph
+
   * golden hair
 
 * Andan
+
   * burning eyes
   * name means anger
 
@@ -119,5 +126,5 @@ Lanre was able to do this despite a prior lack of naming skill. An army took Myr
 
 Aleph had requested something of Selitos. He also wants him to only punish or reward what he sees and to put away personal issues. He refuses and with some of the Ruach form the Amyr.
 
-Tehlo comes forward with others and offers to serve in any way.
+Tehlo comes forward with others and offers to serve in any way. Aleph gave them wings of fire and shadow, iron and glass, stone and blood. fire flickered in them, they were swift, saw into the hearts of men and sang songs of power, the fire consumed them and they were invisible, but the most powerful can see them and they carry out justice
 

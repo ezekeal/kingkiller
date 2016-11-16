@@ -27,7 +27,7 @@
 * [Locations](locations.md)
 * [My Notes](my-notes.md)
 * [Narrator Facts](narrator-facts.md)
-* [Religion](religion.md)
+* [The Church](religion.md)
 * [Books](books.md)
 * [Sayings](sayings.md)
 * [Stories](stories.md)
