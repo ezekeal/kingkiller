@@ -48,13 +48,15 @@ See Lanre Songs in Songs
 * husband of Lyra
 * caries a silver sword
 * had a haubergeon of black iron scales from the beast
+
   * fits like a second skin of shadow
 
 * rumors
+
   * fled the empire
   * had gone mad
   * killed himself to find Lyra in the land of the dead
 
 
-Lyra and Lanre defended cities of the empire and helped them recognize the need for allegience. It gave people hope.Then came the blac of Drossen Tor, the largest battle. More died there than live today. Lanre fought a beast with scales of black iron whose breath was darkness  that smothered men. He died. Lyra called to him to live and eventually he did. Peace began settling on the empire. After hearing rumor sof Lyra's
+Lyra and Lanre defended cities of the empire and helped them recognize the need for allegience. It gave people hope.Then came the blac of Drossen Tor, the largest battle. More died there than live today. Lanre fought a beast with scales of black iron whose breath was darkness  that smothered men. He died. Lyra called to him to live and eventually he did. Peace began settling on the empire. After hearing rumors of Lyra's death and Lanre's madness, he shows up  in Myr Tariniel. 
 

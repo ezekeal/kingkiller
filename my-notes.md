@@ -40,6 +40,7 @@ Teren and Shandi - singer Sharon Tandy?
 
 * The thing behind the doors of stone sounds like a machine, dark breath that smothers being something like carbon monoxide
 
+
 ## Just Interesting
 
 * Kote has one recent cut at the beginning of the story \(maybe had already seen the scraeling?\)
@@ -63,6 +64,7 @@ Teren and Shandi - singer Sharon Tandy?
 
 * Ben says "Remember your father's song. Be wary of folly" likely in reference to the Lanre song?
 
+* In Lanre, Selitos knows "how grief can twist a heart, how passions drive good men to folly"
 
 ## Subtext
 
