@@ -40,6 +40,12 @@ Teren and Shandi - singer Sharon Tandy?
 
 * The thing behind the doors of stone sounds like a machine, dark breath that smothers being something like carbon monoxide
 
+* Kvothe == demon
+  * red heads were burned as demons
+  * so were people with knacks
+  * he doesn't want to step into a church
+  * stays away from clergy
+
 
 ## Just Interesting
 
@@ -65,6 +71,7 @@ Teren and Shandi - singer Sharon Tandy?
 * Ben says "Remember your father's song. Be wary of folly" likely in reference to the Lanre song?
 
 * In Lanre, Selitos knows "how grief can twist a heart, how passions drive good men to folly"
+
 
 ## Subtext
 

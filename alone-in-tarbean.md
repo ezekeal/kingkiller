@@ -28,5 +28,5 @@ Kvothe saw pike again and followed him back to his "secret place" in Dockside. H
 
 Kvothe age 15 now
 
-He ovearhears a girl in Trapis' basement talking about a storyteller
+He ovearhears a girl in Trapis' basement talking about a storyteller. Kvothe sees the storytelller \(named Skarpi\) and hears the story of Lanre.cccc
 
