@@ -83,3 +83,7 @@
 * Kvothe sleeps against a Laystone after running from the site of his troupe's murder
 
 
+## The Doors of Stone
+
+According to the Lanre story there's a beast with iron scales whose dark breath smothers men set behind it
+

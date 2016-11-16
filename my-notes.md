@@ -38,6 +38,7 @@ Teren and Shandi - singer Sharon Tandy?
 
 * Kote possibly used sympathy to make the iron crackle using bad iron to produce extra heat
 
+* The thing behind the doors of stone sounds like a machine, dark breath that smothers being something like carbon monoxide
 
 ## Just Interesting
 

@@ -46,4 +46,11 @@ See Lanre Songs in Songs
 * fought since he could lift a sword
 * worth a dozen men as a teenager
 * husband of Lyra
+* rumors
+  * fled the empire
+  * had gone mad
+  * killed himself to find Lyra in the land of the dead
+
+
+Lyra and Lanre defended cities of the empire and helped them recognize the need for allegience. It gave people hope.Then came the blac of Drossen Tor, the largest battle. More died there than live today. Lanre fought a beast with scales of black iron whose breath was darkness  that smothered men. He died. Lyra called to him to live and eventually he did.
 

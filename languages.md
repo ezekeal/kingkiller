@@ -36,3 +36,7 @@ Lhin ta Lu soren hea
 
 Tehus antausa eha!
 
+### Language of Lanre's time
+
+Blac: Battle
+
