@@ -61,6 +61,7 @@ See Lanre Songs in Songs
 * immortal
 
 * took the new name Haliax after destroying the empire
+
 * claims no door can bar his passing
 * cursed
   * his face is held in shadow
@@ -72,4 +73,8 @@ Lyra and Lanre defended cities of the empire and helped them recognize the need 
 > Silanxi, I bind you. by the name of stone, be as stone. Aeruh, I command the air. Lay leaden on your tongue. Selitos, I name you. May all your powers fail you but your sight."
 
 Lanre was able to do this despite a prior lack of naming skill. An army took Myr Tariniel,  burned it black while Selitos could only watch. He swore to sow salt lest bitter weeds grow and took up the name Haliax. Selitos stabbed his eye with a stone breaking the enchantment. He cursed Lanre with his own blood.
+
+...
+
+Aleph had requested something of Selitos. He also wants him to only punish or reward what he sees and to put away personal issues. He refuses and with some of the Ruach form the Amyr
 
